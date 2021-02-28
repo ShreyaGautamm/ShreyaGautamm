@@ -10,3 +10,17 @@ I am Shreya Gautam 😊 currently a sophomore in Computer Science 💻 at Birla 
 🔹**Web Development** - HTML; CSS; Javascript(learning)<br>
 🔹**Open Source Enthusiast**\
 🔹**Machine Learning Enthusiast**
+
+***
+
+[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaGautamm&show_icons=true&theme=gruvbox)](https://github.com/ShreyaGautamm/github-readme-stats)
+[![Language Preferences](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaGautamm&layout=compact&theme=gruvbox)](https://github.com/ShreyaGautamm/github-readme-stats)
+
+***
+
+_For collaborating and contributing in projects and open source feel free to contact me_
+
+### Contact Me:
+You can contact me on [LinkedIn](https://www.linkedin.com/in/shreya-gautam-5b00a819b/) or you can mail me on gautamm.shreya@gmail.com
+
+***
