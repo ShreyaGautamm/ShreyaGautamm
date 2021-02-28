@@ -5,8 +5,8 @@ I am Shreya Gautam 😊 currently a sophomore in Computer Science 💻 at Birla 
 **ShreyaGautamm/ShreyaGautamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### My skills include 🎀:
-🔹**Programming Languages** - C; C++; Java; Python
-🔹**Database** - MySQL
-🔹**Web Development** - HTML; CSS; Javascript(learning)
-🔹**Open Source Enthusiast**
+🔹**Programming Languages** - C; C++; Java; Python\
+🔹**Database** - MySQL\
+🔹**Web Development** - HTML; CSS; Javascript(learning)<br>
+🔹**Open Source Enthusiast**\
 🔹**Machine Learning Enthusiast**
