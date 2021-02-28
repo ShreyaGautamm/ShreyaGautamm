@@ -24,3 +24,5 @@ _For collaborating and contributing in projects and open source feel free to con
 You can contact me on [LinkedIn](https://www.linkedin.com/in/shreya-gautam-5b00a819b/) or you can mail me on gautamm.shreya@gmail.com
 
 ***
+<img height="200" src="https://github.com/ShreyaGautamm/ShreyaGautamm/blob/main/puddle_jumper_octodex.jpg"><br>
+##### **ENJOY CODING AND BUILDING 🤩🤩**
