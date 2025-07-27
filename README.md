@@ -1,4 +1,4 @@
-# **👋 Hello there! This is Shreya Gautam**
+<h1 align="center">👋 Hello there! This is Shreya Gautam</h1>
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=ShreyaGautamm&color=blue&style=flat)-->
 
