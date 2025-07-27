@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there! This is Shreya Gautam</h1>
 
-<!--![Profile Views](https://komarev.com/ghpvc/?username=ShreyaGautamm&color=blue&style=flat)-->
+![Profile Views](https://komarev.com/ghpvc/?username=ShreyaGautamm&color=blue&style=flat)
 
 _I’m a researcher who has a keen interest in exploring the potential of LLMs, especially its hallucinations, misinformation and disinformation, and ethical governance, exploring multimodality and leveraging data science techniques to drive innovation and tackle real-world challenges._
 
