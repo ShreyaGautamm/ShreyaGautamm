@@ -5,11 +5,34 @@
 _I’m a researcher who has a keen interest in exploring the potential of LLMs, especially its hallucinations, misinformation and disinformation, and ethical governance, exploring multimodality and leveraging data science techniques to drive innovation and tackle real-world challenges._
 
 🎓 I'm a grad student at [Politecnico di Milano](https://www.polimi.it/), Italy, pursuing Masters in Computer Science and Engineering.  
-💻 My research focus is: LLM hallucinations, misinformation and disinformation, and its ethical governance along with Multimodality and Data Science.  
-📝 My publications at conferences like ACL and EMNLP: \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•[SEPSIS: I Can Catch Your Lies – A New Paradigm for Deception Detection](https://aclanthology.org/2025.acl-srw.7/) \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•[Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI)](https://aclanthology.org/2023.emnlp-main.136/)  \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•[FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering](https://aclanthology.org/2023.acl-long.581/)
+💻 My research focus is: LLM hallucinations and its Ethical Governance, Computational Social Science, and Misinformation and Disinformation, along with Data Science.  
+<h3>📝 My Publications</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://aclanthology.org/2025.acl-srw.7/">
+        SEPSIS: I Can Catch Your Lies – A New Paradigm for Deception Detection
+      </a><br>
+      <img src="https://img.shields.io/badge/ACL-2025-blue" alt="ACL 2025 Badge"/>
+    </td>
+    <td>
+      <a href="https://aclanthology.org/2023.emnlp-main.136/">
+        Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think
+      </a><br>
+      <img src="https://img.shields.io/badge/EMNLP-2023-red" alt="EMNLP 2023 Badge"/>
+    </td>
+    <td>
+      <a href="https://aclanthology.org/2023.acl-long.581/">
+        FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering
+      </a><br>
+      <img src="https://img.shields.io/badge/ACL-2023-blue" alt="ACL 2023 Badge"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
