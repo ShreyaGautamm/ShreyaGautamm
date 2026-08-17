@@ -1,12 +1,30 @@
-<h1 align="center">👋 Hello there! This is Shreya Gautam</h1>
+<h1 align="center"> Hi! I'm Shreya Gautam👋</h1>
+
+<p align="center"> <b>AI/ML Research Scientist · NLP · LLMs · Generative AI · Applied ML Research</b> </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShreyaGautamm&color=blue&style=flat)
 
-_I’m a researcher who has a keen interest in exploring the potential of LLMs, especially its hallucinations, misinformation and disinformation, and ethical governance, exploring multimodality and leveraging data science techniques to drive innovation and tackle real-world challenges._
+<hr> 
+<h2>📖 A little about me</h2>
 
-🎓 I'm a grad student at [Politecnico di Milano](https://www.polimi.it/), Italy, pursuing Masters in Computer Science and Engineering.  
-💻 My research focus is: LLM hallucinations and its Ethical Governance, Computational Social Science, and Misinformation and Disinformation, along with Data Science.  
-<h3>📝 My Publications</h3>
+<p align="center"><i>I'm an <strong>AI/ML Research Scientist</strong> interested in the space where
+<strong>machine learning, language, generative models, and society</strong> meet.</i></p>
+<p align="justify"><i>My research experiece and interest spans exploring the potential of LLMs, especially its hallucinations, misinformation and disinformation, and ethical governance, exploring multimodality and leveraging data science and statistical modelling to drive innovation and tackle real-world challenges.</i></p>
+
+
+<h2>👩🏻‍💻 What I'm up to</h2>
+
+<p>
+🔬 <strong>Research Scientist</strong>, Italy
+</p>
+<p>
+🎓 <strong>MSc in Computer Science & Engineering</strong> .
+<a href="https://www.polimi.it/" target="_blank">Politecnico di Milano</a>, Italy
+</p>  
+💻 My research focus is: LLM hallucinations and its Ethical Governance, Computational Social Science, Misinformation and Disinformation, and Data Science and Statistical Modelling.
+
+
+<h2>📝 My Publications</h2>
 
 <table>
   <tr>
